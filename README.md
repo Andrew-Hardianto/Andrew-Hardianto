@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Hardianto 👋
 
-**Mobile & Front-End Developer** · Fintech & Banking · Bekasi, Indonesia
+**Mobile & Front-End Developer** · Fintech, HRIS & Banking · Bekasi, Indonesia
 
 I build cross-platform mobile and web applications for multifinance and banking companies in Indonesia. My work focuses on fast, stable interfaces and reliable API integration in regulated environments.
 
