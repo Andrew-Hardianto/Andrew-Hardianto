@@ -1,6 +1,14 @@
-# Hi, I'm Andrew Hardianto 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Andrew+Hardianto+%F0%9F%91%8B%0AMobile+%26+Front-End+Developer%0AFlutter+%C2%B7+Angular+%C2%B7+Kotlin%0AFintech+%C2%B7+HRIS+%C2%B7+Superapp" alt="Andrew Hardianto — Mobile & Front-End Developer" />
 
-**Mobile & Front-End Developer** · Fintech, HRIS & Superapp · Bekasi, Indonesia
+  <p>
+    <a href="https://www.linkedin.com/in/andrew-hardianto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+    <a href="https://andrewhardianto.my.id/"><img src="https://img.shields.io/badge/Portfolio-111827?logo=googlechrome&logoColor=white&style=flat-square" alt="Portfolio" /></a>
+    <a href="mailto:andrewhardianto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Open_to_Work-21_Oct_2026_%E2%9C%85-2ea44f?style=flat-square" alt="Available from 21 October 2026" />
+    <img src="https://img.shields.io/badge/Location-Bekasi%2C_Indonesia-007EC6?style=flat-square" alt="Bekasi, Indonesia" />
+  </p>
+</div>
 
 I build cross-platform mobile and web applications for multifinance and banking companies in Indonesia. My work focuses on fast, stable interfaces and reliable API integration in regulated environments.
 
@@ -42,18 +50,59 @@ I build cross-platform mobile and web applications for multifinance and banking 
   <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Git · GitHub · GitHub Actions (CI/CD)" />
 </p>
 
-## Selected projects
+## 🚀 Selected projects
 
-- **[QrQu](https://github.com/Andrew-Hardianto/QrQu)**: native Android QR scanner (Kotlin, Jetpack Compose, ML Kit, Room)
-- **[Portfolio website](https://github.com/Andrew-Hardianto/portofolio)**: React single-page site with an interactive project showcase
-- **Enterprise apps** (HRIS, internal Superapp, secure messaging): client-owned, so the code is private. Details are on my [portfolio](https://andrewhardianto.my.id/).
+- 🎯 **[QrQu](https://github.com/Andrew-Hardianto/QrQu)** — native Android QR scanner (Kotlin, Jetpack Compose, ML Kit, Room)
+- 🌐 **[Portfolio website](https://github.com/Andrew-Hardianto/portofolio)** — React single-page site with an interactive project showcase
+- 🏢 **Enterprise apps** (HRIS, internal Superapp, secure messaging) — client-owned, so the code is private. Details are on my [portfolio](https://andrewhardianto.my.id/).
 
-## Open to work
+## 📊 GitHub Analytics
 
-📍 Jakarta (hybrid/WFO) or remote · Available from **21 October 2026**
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Andrew-Hardianto&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Andrew-Hardianto&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Andrew Hardianto's GitHub stats" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Andrew-Hardianto&hide_border=true&theme=dark&background=transparent" />
+        <img src="https://streak-stats.demolab.com?user=Andrew-Hardianto&hide_border=true&theme=default&background=transparent" alt="Andrew Hardianto's GitHub streak" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-## Contact
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Hardianto&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Hardianto&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</picture>
 
-- LinkedIn: [andrew-hardianto](https://www.linkedin.com/in/andrew-hardianto/)
-- Portfolio: [andrewhardianto.my.id](https://andrewhardianto.my.id/)
-- Email: andrewhardianto@gmail.com
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew-Hardianto/Andrew-Hardianto/content/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Andrew-Hardianto/Andrew-Hardianto/content/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</picture>
+
+## 💼 Open to work
+
+> 🟢 Available from **21 October 2026** · 📍 Jakarta (hybrid/WFO) or remote
+
+## 📬 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/andrew-hardianto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://andrewhardianto.my.id/"><img src="https://img.shields.io/badge/Portfolio-111827?logo=googlechrome&logoColor=white&style=flat-square" alt="Portfolio" /></a>
+  <a href="mailto:andrewhardianto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andrew-Hardianto&color=blue&style=flat-square" alt="Profile views" />
+  <br />
+  <sub>⭐️ Thanks for stopping by — feel free to explore my repos!</sub>
+</div>
