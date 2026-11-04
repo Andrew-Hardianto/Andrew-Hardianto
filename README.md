@@ -89,7 +89,7 @@ I build cross-platform mobile and web applications for multifinance and banking 
 
 ## 💼 Open to work
 
-> 🟢 Available from **21 October 2026** · 📍 Jakarta (hybrid/WFO) or remote
+> 📍 Jakarta (hybrid/WFO) or remote
 
 ## 📬 Contact
 
